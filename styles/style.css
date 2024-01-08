@@ -11,7 +11,7 @@ body{
 
 /*Header- Banner Related design*/
 .banner{
-    background-image:linear-gradient(to bottom , rgb(0, 0, 0), rgba(0, 0, 0, 0.071)), url("/resources/Banner Image.png") ;
+    background-image:linear-gradient(to bottom , rgb(0, 0, 0), rgba(0, 0, 0, 0.071)), url("../resources/Banner Image.png") ;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
