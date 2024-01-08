@@ -70,7 +70,7 @@ body{
     margin:120px auto 0;
     width: 1320px;
     height: 600px;
-    background-image:linear-gradient(to right, black,rgba(0, 0, 0, 0)), url(/resources/Vectorrr.png);
+    background-image:linear-gradient(to right, black,rgba(0, 0, 0, 0)), url(../resources/Vectorrr.png);
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
