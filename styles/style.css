@@ -142,4 +142,63 @@ body{
     
 }
 
+/* 4th section New best Offer section */
+
+.best-offer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 120px 105px 0px;
+    border: 2px solid red;
+    font-family: 'Inter', sans-serif;
+}
+#new{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top:104px ;
+}
+#coming{
+    color: #070211;
+    font-family: 'Merriweather';
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+}
+#best-offer-info{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 22px;
+}
+.round-shape{
+    width: 364px;
+    height: 364px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+#t24{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 112px;
+    margin-left: 118px;
+}
+#t24-info{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 16px;
+    margin-left: 118px;
+}
+#t24image{
+    margin-top: 43px;
+    margin-left: 118px;
+    width: 140px;
+    height: 140px;
+}
+
+
 
