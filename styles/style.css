@@ -355,9 +355,12 @@ body{
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    
 }
 #unsubscribe{
     margin-left: 875px;
+    text-decoration: none;
+    color: #FFF;
 }
 
 
