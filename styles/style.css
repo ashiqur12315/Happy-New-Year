@@ -316,6 +316,7 @@ body{
 /* footer section  */
 .footer{
     background-color: #070211;
+    padding-bottom: 120px;
 }
 .address{
     display: flex;
@@ -349,8 +350,7 @@ body{
     font-weight: 500;
 }
 #unsubscribe{
-    float: right;
-    width: 50%;
+    margin-left: 875px;
 }
 
 
