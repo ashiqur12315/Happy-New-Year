@@ -327,7 +327,14 @@ body{
     font-size: 24px;
     font-weight: 500;
     padding:120px 140px 0;
-    
+
+}    
+.primary-footer-text i{
+    margin-right: 10px;
+}
+#web{
+    text-decoration: none;
+    color: #FFF;
 }
 .footer hr{
     width: 1320px;
