@@ -220,7 +220,7 @@ body{
 #sale{
     color: #070211;
 }
-#sale-info{
+.sale-info{
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 20px;
@@ -245,5 +245,113 @@ body{
 .g1{
     position: relative;
 } */
+
+/* 5th section the best gift  */
+.the-best-gift{
+    margin: 120px 105px 0;
+}
+#best-gift{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.portfolio{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+#portfolio-info{
+    margin-bottom: 48px;
+}
+.products{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 24px;
+}
+
+/* 6th section subscribe newsletter */
+.subscribe{
+    width: 1320px;
+    height: 616px;
+    background-color: rgba(255, 0, 0, 0.05);
+    margin: 120px 105px 0;
+    border-radius: 16px;
+    text-align: center;   
+}
+.subscribe img{
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+#newsletter{
+    margin-top: 40px;
+    margin-bottom: 22px;
+}
+.email{
+    margin-top: 48px;
+}
+#your-email{
+    padding: 25px 267px 25px 30px;
+    border-radius: 50px 0 0 50px;
+    border-style: none;
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 0;
+}
+.btn-email{
+    padding: 24px 56px;
+    border-radius: 0 50px 50px 0;
+    border-style: none;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #F00;
+}
+
+/* footer section  */
+.footer{
+    background-color: #070211;
+}
+.address{
+    display: flex;
+}
+.primary-footer-text{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding:120px 140px 0;
+    
+}
+.footer hr{
+    width: 1320px;
+    margin: 50px 140px 48px;
+    color: rgba(255, 255, 255, 0.15);
+}
+.social-media{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+.copyright{
+    display: flex;
+    margin-top:50px;
+    margin-left: 140px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+#unsubscribe{
+    float: right;
+    width: 50%;
+}
+
 
 
